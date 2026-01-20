@@ -119,7 +119,7 @@ Social-Network-Ads-Click-Prediction-System/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/social-network-ads-ml.git
+git clone https://github.com/shehjaddev/Social-Network-Ads-Click-Prediction-System.git
 ```
 
 2. Install dependencies:
