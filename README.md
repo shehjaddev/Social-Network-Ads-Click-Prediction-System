@@ -103,7 +103,7 @@ The application is deployed on **Hugging Face Spaces** and is publicly accessibl
 ## Project Structure
 
 ```
-social-network-ads-ml/
+Social-Network-Ads-Click-Prediction-System/
 │
 ├── app.py                  # Gradio web application
 ├── model.pkl               # Trained machine learning model
